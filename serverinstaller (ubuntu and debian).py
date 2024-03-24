@@ -1,3 +1,4 @@
+#UBUNTU AND DEBIAN USERS ONLY!!!
 import time
 import os
 time.sleep(5)
