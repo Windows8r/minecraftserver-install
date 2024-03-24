@@ -2,7 +2,7 @@
 ```
  - $ git clone https://github.com/Windows8r/minecraftserver-install/
  - $ cd minecraftserver-install
- - $ sudo python GBrute.pyc
+ - $ sudo python "serverinstaller (ubuntu and debian).py"
 ```
 
 ### How it works?:
