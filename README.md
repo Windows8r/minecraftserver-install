@@ -5,9 +5,6 @@
  - $ sudo python "serverinstaller (ubuntu and debian).py"
 ```
 
-### How it works?:
-It uses Gmail SMTP Login and bypasses login attempts!
-
 		   #########################################################
 		   #		Creator: @Windows8r			   #
 		   #		Do not leech this code, learn from it.	   #
